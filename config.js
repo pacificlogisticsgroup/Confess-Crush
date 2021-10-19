@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Chiều nay 16h30, Hẹn gặp các bạn tại phòng 613-614 ngày 20/10 nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://pacificlogisticsgroup.github.io/pacificlogisticsgroup/invitation.html' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://i.imgur.com/GH7OVhf.jpg' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
