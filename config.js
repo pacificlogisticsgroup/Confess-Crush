@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Pacific Logistics Group",
     introTitle: 'Xin chào các nữ Pacificer',
-    introDesc: `Các bạn đã sẵn sàng tham gia Party 20/10 hôm nay chưa`,
+    introDesc: `Các bạn đã sẵn sàng tham gia Party 20/10 chưa`,
     btnIntro: 'Sẵn sàng',
     title: 'Các bạn thấy các bạn nam Pacific 🥰',
     desc: 'có đẹp trai không? ',
@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Chiều nay 16h30, Hẹn gặp các bạn tại phòng 613-614 nhé.',
+    messDesc: 'Chiều nay 16h30, Hẹn gặp các bạn tại phòng 613-614 ngày 20/10 nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/pacificlogisticsvn' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://pacificlogisticsgroup.github.io/pacificlogisticsgroup/invitation.html' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
